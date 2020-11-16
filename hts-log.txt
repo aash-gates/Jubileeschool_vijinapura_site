@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Nov 2020 05:33:28 at http://www.jubileeschool.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.jubileeschool.in/ -O1 "C:\My Web Sites\Jubilee school vijinapura" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:38:50	Error: 	"Not Found" (404) at link www.jubileeschool.in/academics.html (from www.jubileeschool.in/president_message.html)
+05:38:50	Error: 	"Not Found" (404) at link www.jubileeschool.in/beyond_books.html (from www.jubileeschool.in/president_message.html)
+05:38:50	Error: 	"Not Found" (404) at link www.jubileeschool.in/resource.html (from www.jubileeschool.in/president_message.html)
+05:38:50	Error: 	"Not Found" (404) at link www.jubileeschool.in/special_events.pdf (from www.jubileeschool.in/president_message.html)
+05:38:50	Error: 	"Not Found" (404) at link www.jubileeschool.in/links.html (from www.jubileeschool.in/president_message.html)
+06:02:52	Error: 	"Not Found" (404) at link www.jubileeschool.in/data2/images/fest1911.jpg (from www.jubileeschool.in/gallery_fest19.html)
+06:02:52	Error: 	"Not Found" (404) at link www.jubileeschool.in/data2/images/doctor1910.jpg (from www.jubileeschool.in/gallery_doctor19.html)
+06:23:55	Error: 	"Not Found" (404) at link www.jubileeschool.in/engine2//engine1/bg.png (from www.jubileeschool.in/engine2//style.css)
+06:23:55	Error: 	"Not Found" (404) at link www.jubileeschool.in/data2/images/fieldtrip18std909.jpg (from www.jubileeschool.in/gallery_fieldtrip189.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 minutes 31 seconds : 1327 links scanned, 1317 files written (75494408 bytes overall) [75187093 bytes received at 24806 bytes/sec], 928720 bytes transferred using HTTP compression in 94 files, ratio 31%
+(9 errors, 0 warnings, 0 messages)
